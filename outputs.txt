@@ -1,0 +1,6 @@
+73, Ronaldo Matrinez, New Texas, 2026, SQL, 4, Computer Science, B
+12, Damon John, Seattle, 2023, PYTHON, 4, Computer Science, B
+66, Ronaldo Brock, California, 2024, JAVA, 2, Computer Science, A
+38, Mark Callaway, Chicago, 2023, MicroProcessor, 2, CyberSecurity, A
+39, Christopher Jack, Atlanta, 2025, PYTHON, 4, Computer Science, A
+88, Lucy Rohland, New Jersey, 2022, MicroProcessor, 2, CyberSecurity, B
